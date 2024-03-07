@@ -39,12 +39,12 @@
 }
 .m0dal{
     position: absolute;
-    width: 90% !important;
-    height: 90% !important;
+    width: 80% !important;
+    height: 80% !important;
     top: 60px;
     left: 40px;
     display: none;
-    /* background-color: yellowgreen; */
+    background-color: yellowgreen;
 }
 .change{
     width: 100%;
